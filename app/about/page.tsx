@@ -16,7 +16,7 @@ export default function About() {
       degree: "B.Tech in Computer Engineering",
       institution: "Veermata Jijabai Technological Institute (VJTI), Mumbai",
       period: "Aug 2023 - Present",
-      details: "Second Year | CGPA: 9.77",
+      details: "Third Year | CGPA: 9.77",
       highlights: ["JEE Mains AIR: 4411", "JEE Advanced AIR: 5245", "MHT-CET State Rank: 55"],
     },
   ]
