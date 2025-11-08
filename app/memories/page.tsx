@@ -59,7 +59,7 @@ const initialMemories: Memory[] = [
     title: "Workshop on Agentic AI for Juniors in College",
     caption: "Speaking about Langraph framework AI agents and building AI applications",
     date: "March 2025",
-    pinned: true,
+    pinned: false,
   },
   {
     id: "2",
@@ -75,7 +75,7 @@ const initialMemories: Memory[] = [
     title: "Inter-College Football",
     caption: "Leading our team to victory as captain and highest goal scorer",
     date: "January 2025",
-    pinned: true,
+    pinned: false,
   },
   {
     id: "4",
@@ -112,7 +112,7 @@ const initialMemories: Memory[] = [
   },
   {
     id: "9",
-    image: "/bunjee.jpg",
+    image: "/bungee.jpg",
     title: "Bungee Jumping",
     caption: "Leaping off the south africa's bridge, the highest natural bungee jump in the world",
     date: "August 2024",
